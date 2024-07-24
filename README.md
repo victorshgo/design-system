@@ -22,17 +22,21 @@ Clone o repositório e no diretório raiz do projeto, execute: `npm i`
 
 No diretório raiz do projeto, execute:
 
+
 ### `npm run storybook`
 
 Para visualizar o storybook da aplicação.
+
 
 ### `npm run test`
 
 Para executar os testes da aplicação.
 
+
 ### `npm run build`
 
 Para criar o build da biblioteca que ficará disponível no diretório `dist`.
+
 
 ### `npm publish`
 
