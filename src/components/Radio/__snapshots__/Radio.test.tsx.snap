@@ -6,15 +6,15 @@ exports[`Globals Components - Radio > Should match snapshot 1`] = `
   "baseElement": <body>
     <div>
       <label
-        class="sc-aXZVg LTpod"
+        class="sc-braxZu fHRBGz"
       >
         <input
-          class="sc-gEvEer dOGqav"
+          class="sc-gJhJTp ezMHyn"
           label="Render Radio"
           type="radio"
         />
         <span
-          class="sc-eqUAAy cBRmVH"
+          class="sc-elDIKY VkYNj"
         />
         Render Radio
       </label>
@@ -22,15 +22,15 @@ exports[`Globals Components - Radio > Should match snapshot 1`] = `
   </body>,
   "container": <div>
     <label
-      class="sc-aXZVg LTpod"
+      class="sc-braxZu fHRBGz"
     >
       <input
-        class="sc-gEvEer dOGqav"
+        class="sc-gJhJTp ezMHyn"
         label="Render Radio"
         type="radio"
       />
       <span
-        class="sc-eqUAAy cBRmVH"
+        class="sc-elDIKY VkYNj"
       />
       Render Radio
     </label>

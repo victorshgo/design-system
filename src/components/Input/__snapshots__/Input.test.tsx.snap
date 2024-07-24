@@ -5,19 +5,39 @@ exports[`Globals Components - Input > Should match snapshot 1`] = `
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <input
-        class="sc-eqUAAy bEfKhs"
-        placeholder="Render Input"
-        scale="md"
-      />
+      <div
+        class="sc-braxZu dGEnXR"
+      >
+        <input
+          class="sc-elDIKY eEIGKy"
+          placeholder="Render Input"
+          scale="md"
+          type="text"
+        />
+        <label
+          class="sc-gJhJTp gHtUTK"
+        >
+          Render Input
+        </label>
+      </div>
     </div>
   </body>,
   "container": <div>
-    <input
-      class="sc-eqUAAy bEfKhs"
-      placeholder="Render Input"
-      scale="md"
-    />
+    <div
+      class="sc-braxZu dGEnXR"
+    >
+      <input
+        class="sc-elDIKY eEIGKy"
+        placeholder="Render Input"
+        scale="md"
+        type="text"
+      />
+      <label
+        class="sc-gJhJTp gHtUTK"
+      >
+        Render Input
+      </label>
+    </div>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],

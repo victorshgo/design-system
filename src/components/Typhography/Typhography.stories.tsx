@@ -1,5 +1,5 @@
 /* Components */
-import { Typhography as TyphographyDS } from './styles';
+import { Typhography as TyphographyDS } from '.';
 
 /* Types */
 import { TyphographyProps } from './Typhography.types';

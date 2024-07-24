@@ -1,5 +1,5 @@
 /* Components */
-import { Card as CardDS } from './styles';
+import { Card as CardDS } from '.';
 
 import { Typhography as TyphographyDS } from '../Typhography';
 

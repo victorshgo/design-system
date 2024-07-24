@@ -6,7 +6,7 @@ exports[`Globals Components - Button > Should match snapshot 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="sc-aXZVg fPpFVy"
+        class="sc-braxZu jXyGPR"
         elevation="1"
       >
         Render Card
@@ -15,7 +15,7 @@ exports[`Globals Components - Button > Should match snapshot 1`] = `
   </body>,
   "container": <div>
     <div
-      class="sc-aXZVg fPpFVy"
+      class="sc-braxZu jXyGPR"
       elevation="1"
     >
       Render Card

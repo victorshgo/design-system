@@ -1,5 +1,5 @@
 /* Components */
-import { Button as ButtonDS } from './styles';
+import { Button as ButtonDS } from '.';
 
 /* Theme */
 import { theme } from '../../theme';

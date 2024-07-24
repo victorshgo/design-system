@@ -6,8 +6,9 @@ exports[`Globals Components - Button > Should match snapshot 1`] = `
   "baseElement": <body>
     <div>
       <button
-        class="sc-aXZVg dYeiBT"
+        class="sc-braxZu LBpje"
         scale="md"
+        variant="contained"
       >
         Render Button
       </button>
@@ -15,8 +16,9 @@ exports[`Globals Components - Button > Should match snapshot 1`] = `
   </body>,
   "container": <div>
     <button
-      class="sc-aXZVg dYeiBT"
+      class="sc-braxZu LBpje"
       scale="md"
+      variant="contained"
     >
       Render Button
     </button>

@@ -4,7 +4,7 @@ import { describe, expect, it } from 'vitest';
 import { act } from 'react-dom/test-utils';
 
 /* Components */
-import { Input } from './styles';
+import { Input } from '.';
 
 describe('Globals Components - Input', () => {
   it('Should match snapshot', () => {

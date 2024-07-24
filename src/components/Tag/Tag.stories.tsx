@@ -1,5 +1,5 @@
 /* Components */
-import { Tag as TagDS } from './styles';
+import { Tag as TagDS } from '.';
 
 export default {
   title: 'Global/Components/Tag',

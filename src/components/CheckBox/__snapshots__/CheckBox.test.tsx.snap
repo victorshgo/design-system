@@ -6,10 +6,10 @@ exports[`Globals Components - CheckBox > Should match snapshot 1`] = `
   "baseElement": <body>
     <div>
       <label
-        class="sc-aXZVg dpQBtP"
+        class="sc-braxZu dYCRvn"
       >
         <input
-          class="sc-gEvEer hfexWS"
+          class="sc-gJhJTp gwwGQR"
           label="Render CheckBox"
           type="checkbox"
         />
@@ -32,10 +32,10 @@ exports[`Globals Components - CheckBox > Should match snapshot 1`] = `
   </body>,
   "container": <div>
     <label
-      class="sc-aXZVg dpQBtP"
+      class="sc-braxZu dYCRvn"
     >
       <input
-        class="sc-gEvEer hfexWS"
+        class="sc-gJhJTp gwwGQR"
         label="Render CheckBox"
         type="checkbox"
       />

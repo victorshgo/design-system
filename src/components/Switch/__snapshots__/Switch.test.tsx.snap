@@ -6,28 +6,28 @@ exports[`Globals Components - Switch > Should match snapshot 1`] = `
   "baseElement": <body>
     <div>
       <label
-        class="sc-aXZVg hClwVH"
+        class="sc-braxZu jPeBHR"
       >
         <input
-          class="sc-gEvEer FcSJI"
+          class="sc-gJhJTp hptNZk"
           type="checkbox"
         />
         <span
-          class="sc-eqUAAy hbGbgz"
+          class="sc-elDIKY jcbLYf"
         />
       </label>
     </div>
   </body>,
   "container": <div>
     <label
-      class="sc-aXZVg hClwVH"
+      class="sc-braxZu jPeBHR"
     >
       <input
-        class="sc-gEvEer FcSJI"
+        class="sc-gJhJTp hptNZk"
         type="checkbox"
       />
       <span
-        class="sc-eqUAAy hbGbgz"
+        class="sc-elDIKY jcbLYf"
       />
     </label>
   </div>,

@@ -4,7 +4,7 @@ import { describe, expect, it, vi } from 'vitest';
 import { act } from 'react-dom/test-utils';
 
 /* Components */
-import { Button } from './styles';
+import { Button } from '.';
 
 describe('Globals Components - Button', () => {
   const handleClick = vi.fn();

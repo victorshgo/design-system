@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import { describe, expect, it } from 'vitest';
 
 /* Components */
-import { Card } from './styles';
+import { Card } from '.';
 
 describe('Globals Components - Button', () => {
   it('Should match snapshot', () => {

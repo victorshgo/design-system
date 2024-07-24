@@ -3,8 +3,8 @@ import { useState } from 'react';
 /* Components */
 import { Modal as ModalDS } from '.';
 
-import { Button as ButtonDS } from '../Button/styles';
-import { Typhography as TyphographyDS } from '../Typhography/styles';
+import { Button as ButtonDS } from '../Button';
+import { Typhography as TyphographyDS } from '../Typhography';
 
 /* Types */
 import { ModalProps } from './Modal.types';

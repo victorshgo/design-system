@@ -3,7 +3,7 @@ import { render } from '@testing-library/react';
 import { describe, expect, it } from 'vitest';
 
 /* Components */
-import { Typhography } from './styles';
+import { Typhography } from '.';
 
 describe('Globals Components - Typhography', () => {
   it('Should match snapshot', () => {
