@@ -8,9 +8,9 @@
   "scripts": {
     "build": "rollup -c --bundleConfigAsCjs",
     "storybook": "storybook dev -p 6006",
-    "storybook:build": "storybook build",
+    "build-storybook": "storybook build",
     "test": "vitest --silent",
-    "test:coverage": "vitest --silent --coverage"
+    "test-coverage": "vitest --silent --coverage"
   },
   "dependencies": {
     "@types/styled-components": "^5.1.26",
